@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <style>
+  button {
+  position: relative;
+}
+span {
+  position: absolute;
+  top: -3px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  background-color: red;
+  width: 13px;
+  height: 13px;
+  text-align: center;
+  font-size: 11px;
+}
+  </style>
+</head>
+<body>
+  <button>Your cart <span>5</span></button>
+</body>
+</html>
